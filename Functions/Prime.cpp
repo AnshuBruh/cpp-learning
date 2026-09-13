@@ -8,7 +8,7 @@ int Prime(int num) {
             count++;
         }
     }
-
+    
     if (count == 2) {
         return 1;   // Prime
     } else {
